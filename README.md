@@ -33,4 +33,28 @@ Custom Rules – to detect complex queries
 
 Text-based FAQ file – as the internal knowledge base
 
-4. Project Structure
+Setup and run
+How to Run the Project (Local Setup)
+Step 1 — Install Python
+
+Make sure Python 3.10+ is installed.
+
+Step 2 — Install requirements
+
+Open terminal inside your project folder and run:
+
+pip install -r requirements.txt
+
+Step 3 — Add your OpenAI API Key
+
+Create a .env file:
+
+OPENAI_API_KEY=your_key_here
+
+Step 4 — Run the Streamlit App
+streamlit run app.py
+
+
+The browser will open automatically at:
+
+http://localhost:8501
