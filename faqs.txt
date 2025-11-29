@@ -1,0 +1,14 @@
+Q: How do I reset my password?
+A: Click "Forgot Password" on the login page, enter your registered email, then follow the reset link sent to your email.
+---
+Q: How do I track my order?
+A: Go to "My Orders" → select the order → click "Track". If tracking is unavailable, contact support with your order ID.
+---
+Q: My payment failed, what should I do?
+A: Check your card balance, ensure OTP or 3D-secure is completed, then retry. If money was deducted but order not confirmed, contact support with payment reference.
+---
+Q: How do I request a refund?
+A: Go to Orders → Select the order → Click "Request Refund" and choose the reason. Refunds take 5–7 business days after approval.
+---
+Q: Where can I download the invoice?
+A: Go to Orders → Select the order → Click "Download Invoice".
